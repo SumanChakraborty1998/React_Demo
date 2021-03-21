@@ -1,0 +1,41 @@
+
+.list_component{
+    border: solid blue 2px;
+    max-width: 40rem;
+    margin: auto;
+    display: flex;
+    margin-top: 2%;
+    border-radius: 20px;
+    padding: 1%;
+    background: linear-gradient(to top, yellow, red);
+    font-size: 30px;
+    box-shadow: 8px 8px black;
+    text-shadow: 2px 2px white;
+}
+.list_component > div:nth-child(1){
+    max-width: 80%;
+}
+.list_component > div:nth-child(2){
+    flex-grow: 1;
+}
+.list_component button{
+    margin-top: 5%;
+}
+
+.list_component button{
+    /* border: solid white; */
+    font-size: 5vh;
+    margin-top: 0%;
+    background: transparent;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    width: 20%;
+
+}
+.toggle_image{
+    width: 90%;
+    /* border: solid white; */
+    margin-top: 1%;
+}
