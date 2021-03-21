@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SumanChakraborty1998/my_todo_list.git/static/css/main.0e584f1a.chunk.css",
+    "main.js": "/SumanChakraborty1998/my_todo_list.git/static/js/main.f8a35e5c.chunk.js",
+    "main.js.map": "/SumanChakraborty1998/my_todo_list.git/static/js/main.f8a35e5c.chunk.js.map",
+    "runtime-main.js": "/SumanChakraborty1998/my_todo_list.git/static/js/runtime-main.f9bd2e79.js",
+    "runtime-main.js.map": "/SumanChakraborty1998/my_todo_list.git/static/js/runtime-main.f9bd2e79.js.map",
+    "static/js/2.50c916d2.chunk.js": "/SumanChakraborty1998/my_todo_list.git/static/js/2.50c916d2.chunk.js",
+    "static/js/2.50c916d2.chunk.js.map": "/SumanChakraborty1998/my_todo_list.git/static/js/2.50c916d2.chunk.js.map",
+    "static/js/3.cea885fb.chunk.js": "/SumanChakraborty1998/my_todo_list.git/static/js/3.cea885fb.chunk.js",
+    "static/js/3.cea885fb.chunk.js.map": "/SumanChakraborty1998/my_todo_list.git/static/js/3.cea885fb.chunk.js.map",
+    "index.html": "/SumanChakraborty1998/my_todo_list.git/index.html",
+    "static/css/main.0e584f1a.chunk.css.map": "/SumanChakraborty1998/my_todo_list.git/static/css/main.0e584f1a.chunk.css.map",
+    "static/js/2.50c916d2.chunk.js.LICENSE.txt": "/SumanChakraborty1998/my_todo_list.git/static/js/2.50c916d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9bd2e79.js",
+    "static/js/2.50c916d2.chunk.js",
+    "static/css/main.0e584f1a.chunk.css",
+    "static/js/main.f8a35e5c.chunk.js"
+  ]
+}
