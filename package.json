@@ -2,7 +2,7 @@
   "name": "my_todo_list",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/SumanChakraborty1998/my_todo_list",
+  "homepage":"http://SumanChakraborty1998.github.io/my_todo_list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
